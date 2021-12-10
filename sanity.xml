@@ -5,7 +5,7 @@
     <test name="ChromeTest">
         <parameter name="browser" value="Chrome" />
         <classes>
-            <class name="main.java.com.tests.WeatherShopperTest">
+            <class name="com.tests.WeatherShopperTest">
             </class>
         </classes>
     </test>
@@ -13,7 +13,7 @@
     <test name="MicrosoftEdgeTest">
         <parameter name="browser" value="MicrosoftEdge" />
         <classes>
-            <class name="main.java.com.tests.WeatherShopperTest">
+            <class name="com.tests.WeatherShopperTest">
             </class>
         </classes>
     </test>

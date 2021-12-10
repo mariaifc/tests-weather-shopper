@@ -1,6 +1,6 @@
 package com.page_objects;
 
-import main.java.com.utils.Product;
+import com.utils.Product;
 import com.utils.StringHelper;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

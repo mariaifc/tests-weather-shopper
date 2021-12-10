@@ -1,9 +1,9 @@
 package com.tests;
 
 import com.page_objects.*;
-import main.java.com.utils.Product;
 import com.utils.Card;
 import com.utils.Log;
+import com.utils.Product;
 import com.utils.Randomizer;
 import org.junit.Assert;
 import org.testng.annotations.Test;
