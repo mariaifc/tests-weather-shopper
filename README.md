@@ -1,6 +1,8 @@
 # tests-weather-shopper
 This projects aims to automate the test case below:
 
+TC1: Check if items can be bought successfuly in weather shopper
+
 Preconditions:
 1. User has connection to Internet
 2. Chrome and Edge browsers are installed in the computer
